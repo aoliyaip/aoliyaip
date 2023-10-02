@@ -4,7 +4,7 @@
 
 
 <a href="https://t.me/aoliyaip">
-<img align="left" alt="aoliyaip | Telegram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fblack-telegram-icon-on-transparent-background-png%2F&psig=AOvVaw0tYAmh8BYJaWyjPYb4NfGN&ust=1696341310128000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNio3v3B14EDFQAAAAAdAAAAABAJ" />
+<img align="left" alt="aoliyaip | Telegram" width="22px" src="https://drive.google.com/file/d/1t_OKd_dEDq1wuh6iWMF5jx6j1Z1_vmzD/view?usp=drivesdk" />
 </a>
 <a href="https://www.linkedin.com/in/saket-prag-31b972157/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
